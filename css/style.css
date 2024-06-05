@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* 
+header {
+    background-color: #000e48;
+}
+
+header a p {
+    color: #ffffff;
+    float: left; 
+    margin-left:5vw; 
+    font-size: 25px;
+}
+
+header #header_logo {
+   width: 100px;
+}
+ */
+
+#login_sign {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+/* footer {
+    background-color: #000e48;
+    color: #ffffff;
+    text-align: center;
+} */
+/* 
+footer #copyright {
+    padding: 5px 0px;
+} */
