@@ -134,7 +134,7 @@ function create_new_user($email, $password, $nickname)
 {
 	global $db;
 
-	$sql = "INSERT INTO `user`(`username`, `password`, `nickname`) VALUES ('$email','$password','nickname')";
+	$sql = "INSERT INTO `user`(`username`, `password`, `nickname`) VALUES ('$email','$password','$nickname')";
 
 	$result = mysqli_query($db, $sql);
 	if ($result) {
